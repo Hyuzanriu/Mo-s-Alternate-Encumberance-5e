@@ -1,0 +1,15 @@
+{
+  "id": "slot-inventory",
+  "title": "Slot Inventory (STR Based)",
+  "description": "Replaces D&D5e weight system with 1 slot per item. Max slots = STR score.",
+  "version": "2.0.0",
+  "authors": [
+    { "name": "Elliot" }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systems": ["dnd5e"],
+  "esmodules": ["slot-inventory.js"]
+}
